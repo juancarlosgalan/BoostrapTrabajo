@@ -1,0 +1,39 @@
+#article{
+    height: 650px !important;
+}
+.cuerpo{
+    background-color: aquamarine !important;
+}
+.card-border{
+    border: solid 10px white !important;
+    border-radius: 20px !important;
+    overflow: hidden !important;
+    transition: all ease-out 0,2s !important;
+}
+.card-border:hover{
+    transform: scale(1.05);
+}
+#productos{
+    background: rgb(255, 255, 255);
+    background: linear-gradient(0deg, rgba(255,255,255,1)0%, rgb(99, 196, 255, 1)57%);
+    background-repeat: repeat-x;
+    background-size: 75%;
+    height: 575px!important;
+}
+#formulario{
+    height: 650px;
+    background: rgb(255, 255, 255);
+    background: linear-gradient(0deg, rgba(255,255,255,1)0%, rgb(114, 165, 141)57%);
+    background-repeat: repeat-x;
+    background-size: 75%;
+}
+#areaformulario{
+    padding-left: 100px !important;
+    padding-right: 100px !important;
+    padding-top: 30px !important;
+}
+.card-body2{
+    background: linear-gradient(0deg, rgba(255,255,255,1)0%, rgb(114, 165, 141)57%) !important;
+    padding: 10px !important;
+}
+
